@@ -163,3 +163,21 @@ The project directory structure is organized as follows:
       - [demo.mp4](assets/videos/demo.mp4) - Example video
   - [README.md](README.md) - Project documentation
 
+## Disclaimer
+
+**Important:** Please read this disclaimer carefully before using this repository.
+
+1. **No Warranty**: This project is provided "as-is" without any warranties or guarantees of any kind. The author makes no claims about the accuracy, completeness, or reliability of the code or documentation. You use this project at your own risk.
+
+2. **Intended for Educational Purposes**: This repository is intended primarily for educational and demonstration purposes. It may not be suitable for production environments or commercial applications without further modification and testing.
+
+3. **No Endorsement**: The use of this repository does not imply any endorsement by the author or any associated parties. The opinions and views expressed in this repository are those of the author and do not represent the views of any organization.
+
+4. **No Liability**: The author of this repository accepts no responsibility for any damages or issues that may arise from the use or misuse of the code provided. This includes, but is not limited to, direct or indirect damages, loss of data, or loss of business opportunities.
+
+5. **Third-Party Dependencies**: This project may include third-party libraries or frameworks. The author is not responsible for the maintenance, updates, or security of these dependencies. Users should review and adhere to the licensing terms of any third-party software used.
+
+6. **Contribution**: Contributions to this project are welcome; however, they are made voluntarily and do not imply any commitment or obligation from the author. Contributors are responsible for ensuring that their contributions comply with legal and licensing requirements.
+
+By using this repository, you acknowledge that you have read, understood, and agreed to these terms.
+
