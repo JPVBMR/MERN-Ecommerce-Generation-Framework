@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Dependency directories
+backend/node_modules/
+frontend/node_modules/
+
+# Build directories
+dist/
+build/
+
+# Frontend artifacts
+frontend/public/
+frontend/.next/
+frontend/out/
+
+# Cache and temporary files
+.DS_Store
+*.bak
+*.tmp
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
+.DS_Store

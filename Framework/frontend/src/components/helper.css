@@ -1,0 +1,25 @@
+/* Custom CSS for left-aligning the FrameworkHeader */
+.justifyleft {
+  text-align: left;
+   margin-left: none !important;
+}
+
+
+
+.deleteBtnDiv .deleteBtn{
+background-color: rgb(155, 0, 0);
+border-color: rgb(155, 0, 0);;
+}
+
+
+/* Custom CSS for left-aligning the FrameworkHeader */
+.justifyleft .mainRow{
+  width: 170%;
+margin-left: 0 !important; 
+padding-left: 0; 
+}
+
+/* Adjust padding as needed */
+.header-content .navbar-brand {
+  padding-left: 0; /* You can adjust this value to control the space to the left of the brand/logo */
+}

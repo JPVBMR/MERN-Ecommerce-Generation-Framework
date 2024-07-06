@@ -1,0 +1,24 @@
+.clickable-card {
+  position: relative;
+  cursor: pointer;
+}
+
+.clickable-card.selected img {
+  filter: blur(2px);
+}
+
+.checkmark-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.checkmark {
+  font-size: 2em;
+  color: white;
+}
